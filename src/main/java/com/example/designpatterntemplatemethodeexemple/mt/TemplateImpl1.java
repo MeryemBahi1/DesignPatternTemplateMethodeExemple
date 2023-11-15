@@ -1,4 +1,4 @@
-package com.example.designpatterntemplatemethodeexemple;
+package com.example.designpatterntemplatemethodeexemple.mt;
 
 public class TemplateImpl1 extends TemplateClass{
     @Override

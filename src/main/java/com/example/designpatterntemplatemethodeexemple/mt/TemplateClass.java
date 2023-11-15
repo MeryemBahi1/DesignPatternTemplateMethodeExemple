@@ -1,4 +1,4 @@
-package com.example.designpatterntemplatemethodeexemple;
+package com.example.designpatterntemplatemethodeexemple.mt;
 
 public abstract class TemplateClass {
     public double templateMethode(){
